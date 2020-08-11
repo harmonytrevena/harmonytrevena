@@ -1,4 +1,4 @@
-![](/ReadMe_Cover_Photo.png)
+
 
 # ➤ Software Engineer at DigitalCrafts 
 
