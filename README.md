@@ -1,4 +1,22 @@
-### Hi there 👋
+![](/ReadMe_Cover_Photo.png)
+
+# ➤ Software Engineer at DigitalCrafts 
+
+### 📍 **Living in:**  *Atlanta, GA, USA* 
+### 📍 **Relocating to:**  *Sydney, Australia* 
+### 🛠️ **Working on:**  *Learning HTML + CSS* 
+
+Nice to meet you! I'm a Software Developer at DigitalCrafts currently based in Atlanta. Before venturing into the world of development, I worked as a project manager and interior designer. 
+
+When I’m not working on my next project, you can find me outside enjoying nature or planning my next adventure, relocating back home (to Australia).
+
+## Get in Touch
+  <a href="mailto:harmonytrevena@gmail.com">
+    <img align="left" alt="Will | Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harmony-trevena/">
+    <img align="left" alt="Harmony | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 
 <!--
 **harmonytrevena/harmonytrevena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
