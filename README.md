@@ -1,6 +1,6 @@
 ![](https://github.com/harmonytrevena/harmonytrevena/blob/master/ReadMe_Cover_Photo.png)
 
-# ➤ Software Engineer at DigitalCrafts 
+# ➤ Software Developer at DigitalCrafts 
 
 ### 📍 **Living in:**  *Atlanta, GA, USA* 
 ### 📍 **Relocating to:**  *Sydney, Australia* 
