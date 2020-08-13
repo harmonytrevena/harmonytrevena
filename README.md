@@ -10,7 +10,7 @@ Nice to meet you! I'm a Software Developer at DigitalCrafts currently based in A
 
 When I’m not working on my next project, you can find me outside enjoying nature or planning my next adventure, relocating back home (to Australia).
 
-## Get in Touch
+## Let's Connect!
   <a href="mailto:harmonytrevena@gmail.com">
     <img align="left" alt="Will | Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
   </a>
