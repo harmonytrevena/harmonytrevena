@@ -4,7 +4,7 @@
 
 ### 📍 **Living in:**  *Atlanta, GA, USA* 
 ### 🌏 **Relocating to:**  *Sydney, Australia* 
-### 🛠️ **Working on:**  *Learning HTML + CSS* 
+### 🛠️ **Working on:**  *Learning HTML + CSS + JavaScript* 
 
 Nice to meet you! I'm a Software Developer at DigitalCrafts currently based in Atlanta. Before venturing into the world of development, I worked as a project manager and interior designer. 
 
