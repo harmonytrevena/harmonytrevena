@@ -1,4 +1,4 @@
-![](https://github.com/harmonytrevena/harmonytrevena/blob/master/ReadMe_Cover_Photo.png)
+![](https://github.com/harmonytrevena/harmonytrevena/blob/master/ReadMe_Cover.png)
 
 # ➤ Software Developer at DigitalCrafts 
 
