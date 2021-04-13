@@ -2,13 +2,13 @@
 
 # ➤ Software Developer at DigitalCrafts 
 
-### 📍 **Living in:**  *Atlanta, GA, USA* 
-### 🌏 **Relocating to:**  *Sydney, Australia* 
-### 🛠️ **Working on:**  *Learning React* 
+### 📍 **Living in:**  *Sydney, Australia* 
+### 🌏 **Moved from:**  *Atlanta, Georgia USA* 
+### 🛠️ **Working on:**  *My tan and a career in Product* 
 
-Nice to meet you! I'm a Software Developer at DigitalCrafts currently based in Atlanta. Before venturing into the world of development, I worked as a project manager and interior designer. 
+Nice to meet you! I'm a Project Manager and Software Developer at DigitalCrafts currently based in Sydney. Before venturing into the world of development, I worked as a project manager and interior designer. 
 
-When I’m not working on my next project, you can find me outside enjoying nature or planning my next adventure, relocating back home (to Australia).
+When I’m not working on my next project, you can find me outside enjoying nature or planning my next adventure.
 
 ## Let's Connect!
   <a href="mailto:harmonytrevena@gmail.com">
